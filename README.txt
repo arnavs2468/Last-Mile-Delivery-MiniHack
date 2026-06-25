@@ -11,7 +11,7 @@ deliveries are running late across our 10 cities, and more importantly,
 how we can fix it.
 
 Author: Arnav Singh 
-Institution: Institute of Engineering and Technology, DDU Gorakhpur
+Madan Mohan malaviya University of technology Gorakhpur
 
 ----------------------------------------------------------------------
 📁 WHAT IS IN THIS FOLDER?
