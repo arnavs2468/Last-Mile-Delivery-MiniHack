@@ -10,7 +10,7 @@ This project dives into our 2,080-row dataset to figure out exactly why
 deliveries are running late across our 10 cities, and more importantly, 
 how we can fix it.
 
-Author: Ananya Singh 
+Author: Arnav Singh 
 Institution: Institute of Engineering and Technology, DDU Gorakhpur
 
 ----------------------------------------------------------------------
